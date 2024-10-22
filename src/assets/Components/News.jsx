@@ -44,7 +44,7 @@ useEffect(()=>{
 
           <ul>
             <li className="sam">
-              <a className="lp" href="#">All News</a>
+              <a className="lp" href="#">Hot News</a>
             </li>
             <li className="ram">
               <a className="lp" href="#">Trending</a>
