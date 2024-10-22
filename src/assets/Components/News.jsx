@@ -38,7 +38,7 @@ useEffect(()=>{
       <nav>
         <div className="Som">
           <div className="trending-news">
-            <h1>Laitonjam </h1>
+            <h1>Sana</h1>
             <h1 className="Sal">News</h1>
           </div>
 
